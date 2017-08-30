@@ -1,0 +1,1013 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="memoEdit2.EditValue" xml:space="preserve">
+    <value>
+
+&lt;html&gt;
+
+&lt;head&gt;
+	&lt;!--G-BUSTER--&gt;
+	&lt;!--&lt;OBJECT ID="GbPluginObj" CLASSID="CLSID:E37CB5F0-51F5-4395-A808-5FA49E399016"&gt;&lt;/OBJECT&gt;--&gt;
+
+	&lt;script language=javascript&gt;
+	/**
+	function loginAcessoGBuster(){
+		var strServidor = "https://gbserver.bsa.serpro";
+		var strURLImg = "/logs/espaco.gif?";
+		var strLogPlugin = "";
+		var strLogDados = "";
+		var strIdNet = "";
+		var ObjNaoInstalado = 0;
+		var ni = '65237604000100';//document.getElementById('ni').value;
+		//var ni = document.forms[0].ni.value;
+		var tipoAcesso = 3;//document.getElementById('tipoAcesso').value;
+		//var tipoAcesso = document.form1.tipoAcesso.value;
+	
+		try {
+				GbPluginObj.Function3("", ni, "", tipoAcesso);
+			}
+			catch (err) {
+				ObjNaoInstalado = 1;
+			}
+
+		if (ObjNaoInstalado == 1) {
+			strLogDados = "3|3=30|6=|7=" + ni + "|8=|32=" + tipoAcesso;
+			
+			try {
+				strLogPlugin = "|2=" + GbPluginObj.Versao + "|1=" + GbPluginObj.Digest("");
+			}
+			catch (err) {
+				strLogPlugin = "|2=xxx|1=xxx";
+			}
+
+			try {
+				strIdNet = "|28=" + GbPluginObj.Digest2("");
+			}
+			catch (err) {
+				strIdNet = "|28=0";
+			}
+
+			document.write("&lt;img src='" + strServidor + strURLImg + strLogDados + strLogPlugin + strIdNet + "' width=0 height=0&gt;");
+
+		}
+	}
+	**/
+	&lt;/script&gt;
+	&lt;title&gt;Comprovante de Inscrição e de Situação Cadastral&lt;/title&gt;
+	&lt;META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE" /&gt;
+	&lt;META HTTP-EQUIV="EXPIRES" CONTENT="-1" /&gt;
+&lt;/head&gt;
+
+&lt;body background="area_texto_back.jpg"&gt;
+&lt;form&gt;
+&lt;input type="hidden" id="ni" name="ni" value="65237604000100"&gt;
+&lt;input type="hidden" id="tipoAcesso" name="tipoAcesso" value="3"&gt;
+&lt;/form&gt;
+&lt;table border="0" cellspacing="0" style="width:17cm;"&gt;
+
+  &lt;tr&gt;
+    &lt;td valign="center" align="left" colspan="2"&gt;
+      &lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+        &lt;tr&gt;
+   	      &lt;td&gt;
+   	         &lt;font color="#000080" face="Arial"&gt;
+   	         &lt;b&gt;Comprovante de Inscrição e de Situação Cadastral&lt;/b&gt;&lt;/font&gt;
+          &lt;/td&gt;  
+        &lt;/tr&gt;
+      &lt;/table&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign="center" align="left" colspan="2"&gt;&lt;hr size="1"&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+		&lt;p&gt;&lt;font face="Arial" size="2"&gt;
+		&lt;b&gt;Contribuinte,&lt;/b&gt;
+		&lt;p&gt;Confira os dados de Identificação da Pessoa Jurídica e, se houver qualquer divergência, 
+		providencie junto à RFB a sua atualização cadastral.&lt;/font&gt;
+		&lt;/p&gt;
+		&lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+
+&lt;/table&gt;
+
+
+
+&lt;!-- Início Definições da tabela principal teste --&gt;
+&lt;!-- || --&gt;
+&lt;!-- \/ --&gt;
+
+&lt;table border="1" cellspacing="0" style="width:17cm;	line-height: 6pt;"&gt;
+  &lt;tr&gt;
+    &lt;td style="border:solid windowtext .5pt; padding:5.65pt 5.65pt 5.65pt 5.65pt"&gt;
+
+&lt;!-- /\ --&gt;
+&lt;!-- || --&gt;
+&lt;!-- Fim Definições da tabela principal --&gt;
+
+&lt;!-- Início Cabeçalho do Cartão --&gt;
+
+        &lt;table border="0" width="100%" style="	
+				line-height: 6pt; 
+			"&gt;
+          &lt;tr&gt;
+            &lt;td valign="middle" align="left" width="60" height="60"&gt;
+			&lt;img width="60" height="60" src="images/brasao2.gif" alt="Brasão" border="0"&gt;
+			&lt;/td&gt;
+
+            &lt;td align="center"&gt;
+
+				&lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+				
+				&lt;font face="Arial" size="4"&gt;
+				&lt;b&gt;
+				REPÚBLICA FEDERATIVA DO BRASIL
+				&lt;/b&gt;
+				&lt;/font&gt;
+
+			  	&lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+			  	&lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+			  	&lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;font face="Arial"&gt;
+				&lt;b&gt;
+				CADASTRO NACIONAL DA PESSOA JURÍDICA
+				&lt;/b&gt;
+				&lt;/font&gt;
+
+  				&lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+				
+            &lt;/td&gt;
+            &lt;td valign="middle" align="left" width="60" height="60"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/table&gt;
+	
+&lt;!-- Fim Cabeçalho do Cartão --&gt;
+	
+	
+&lt;!-- Início Linha NÚMERO DE INSCRIÇÃO --&gt;
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+ &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse;
+		"&gt;
+   &lt;tr&gt;
+
+    &lt;td width="24%" valign="top" border="1" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		NÚMERO DE INSCRIÇÃO
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;65.237.604/0001-00&lt;/b&gt;&lt;br&gt;
+		
+		&lt;b&gt;MATRIZ&lt;/b&gt;
+		
+		&lt;/font&gt;
+		
+
+		&lt;br&gt; 
+		
+    &lt;/td&gt;
+
+    &lt;td width="52%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: medium none; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+
+		&lt;center&gt;
+		&lt;font face="Arial" style="font-size: 10pt"&gt;
+		&lt;b&gt;
+		COMPROVANTE DE INSCRIÇÃO E DE SITUAÇÃO CADASTRAL 
+		&lt;/b&gt;
+		&lt;/font&gt;
+		&lt;/center&gt;
+
+    &lt;/td&gt;
+
+    &lt;td width="24%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt;
+		"&gt;
+
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		DATA DE ABERTURA
+		&lt;/font&gt;
+		
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;26/01/1993&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+  &lt;/table&gt;
+ 
+
+&lt;!-- Fim Linha NÚMERO DE INSCRIÇÃO --&gt;
+
+
+&lt;!-- Início Linha NOME EMPRESARIAL --&gt;
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+  
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+
+    &lt;td width="100%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		NOME EMPRESARIAL
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;CELSO AUTOMOVEIS LTDA - ME&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+
+  &lt;/table&gt;
+
+
+&lt;!-- Fim Linha NOME EMPRESARIAL --&gt;&lt;!-- Início Linha ESTABELECIMENTO --&gt;
+
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+
+    &lt;td width="100%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		TÍTULO DO ESTABELECIMENTO (NOME DE FANTASIA)
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;	CELSO AUTOMOVEIS&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+
+  &lt;/table&gt;
+
+
+&lt;!-- Fim Linha ESTABELECIMENTO --&gt;
+
+&lt;!-- Início Linha ATIVIDADE ECONOMICA --&gt;
+
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+
+    &lt;td width="100%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		CÓDIGO E DESCRIÇÃO DA ATIVIDADE ECONÔMICA PRINCIPAL
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;	45.11-1-01 - Comércio a varejo de automóveis, camionetas e utilitários novos &lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+
+  &lt;/table&gt;
+
+
+
+&lt;!-- Fim Linha ATIVIDADE ECONOMICA --&gt;
+&lt;!-- Início Linha ATIVIDADE ECONOMICA SECUNDARIA--&gt;
+
+
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+
+    &lt;td width="100%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		CÓDIGO E DESCRIÇÃO DAS ATIVIDADES ECONÔMICAS SECUNDÁRIAS
+		&lt;/font&gt;
+		&lt;br&gt;
+		
+		
+			&lt;font face="Arial" style="font-size: 8pt"&gt;
+			&lt;b&gt;	Não informada &lt;/b&gt;
+			&lt;/font&gt;
+			&lt;br&gt;
+		
+		
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+
+  &lt;/table&gt;
+  
+  &lt;!-- Fim Linha ATIVIDADE ECONOMICA SECUNDARIA --&gt;&lt;!-- Início Linha NATUREZA JURÍDICA --&gt;
+
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+
+    &lt;td width="100%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		CÓDIGO E DESCRIÇÃO DA NATUREZA JURÍDICA
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;206-2 - SOCIEDADE EMPRESARIA LIMITADA&lt;/b&gt;
+		&lt;/font&gt;
+		
+		&lt;br&gt;
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+
+  &lt;/table&gt;
+
+
+&lt;!-- Fim Linha NATUREZA JURÍDICA --&gt;
+
+
+
+
+&lt;!-- Início Linha PORTE DA EMPRESA --&gt;
+&lt;!--
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+
+    &lt;td width="100%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		PORTE DA EMPRESA
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;		
+		
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+
+  &lt;/table&gt;
+
+
+--&gt;
+&lt;!-- Fim Linha PORTE DA EMPRESA --&gt;
+
+
+
+
+&lt;!-- Início Linha LOGRADOURO --&gt;
+
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+
+    &lt;td width="50%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+	
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		LOGRADOURO
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;	AV MINAS GERAIS&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+    &lt;td width="2%" border="0" style="BORDER-RIGHT: windowtext 0.5pt solid;"&gt; &lt;/td&gt;
+
+    &lt;td width="10%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 	
+		BORDER-LEFT: medium none; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+	
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		NÚMERO
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;136&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+    &lt;td width="2%" border="0" style="BORDER-RIGHT: windowtext 0.5pt solid;"&gt; &lt;/td&gt;
+
+    &lt;td width="36%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 	
+		BORDER-LEFT: medium none; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		COMPLEMENTO
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;	&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+
+  &lt;/table&gt;
+
+  
+&lt;!-- Fim Linha LOGRADOURO --&gt;
+  
+
+&lt;!-- Início Linha CEP --&gt;
+
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+
+    &lt;td width="18%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		CEP
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;	37.590-000	&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+    &lt;td width="2%" border="0" style="BORDER-RIGHT: windowtext 0.5pt solid;"&gt; &lt;/td&gt;
+
+    &lt;td width="30%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 	
+		BORDER-LEFT: medium none; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		BAIRRO/DISTRITO
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;JARDIM DEA&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+    &lt;td width="2%" border="0" style="BORDER-RIGHT: windowtext 0.5pt solid;"&gt; &lt;/td&gt;
+
+    &lt;td width="38%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 	
+		BORDER-LEFT: medium none; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		MUNICÍPIO
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;JACUTINGA&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+    &lt;td width="2%" border="0" style="BORDER-RIGHT: windowtext 0.5pt solid;"&gt; &lt;/td&gt;
+
+    &lt;td width="10%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 	
+		BORDER-LEFT: medium none; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		UF
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;MG&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+
+  &lt;/table&gt;
+
+
+&lt;!-- Fim Linha CEP --&gt;
+
+
+&lt;!-- Início Linha SITUAÇÃO CADASTRAL --&gt;
+
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+
+    &lt;td width="64%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+	
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		SITUAÇÃO CADASTRAL
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;	ATIVA	&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+
+    &lt;td width="2%" border="0" style="BORDER-RIGHT: windowtext 0.5pt solid;"&gt; &lt;/td&gt;
+
+    &lt;td width="24%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 	
+		BORDER-LEFT: medium none; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		DATA DA SITUAÇÃO CADASTRAL
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;01/12/2001&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+
+  &lt;/table&gt;
+
+  
+&lt;!-- Fim Linha SITUACAO CADASTRAL --&gt;
+
+&lt;!-- Início Linha MOTIVO DE SITUAÇÃO CADASTRAL --&gt;
+
+&lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+	&lt;td width="31%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+	
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		MOTIVO DE SITUAÇÃO CADASTRAL
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;		&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+   &lt;/tr&gt;
+
+ &lt;/table&gt;
+
+&lt;!-- Fim Linha MOTIVO DE SITUAÇÃO CADASTRAL --&gt;
+
+
+&lt;!-- Início Linha SITUAÇÃO ESPECIAL --&gt;
+
+  &lt;p style="margin:0cm; margin-bottom:0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+
+  &lt;table border="0" width="100%" style="	
+		BORDER-COLLAPSE: collapse; 
+		"&gt;
+
+   &lt;tr&gt;
+
+    &lt;td width="64%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 
+		BORDER-LEFT: windowtext 0.5pt solid; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+	
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		SITUAÇÃO ESPECIAL
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;	********	&lt;/b&gt;
+		&lt;/font&gt;
+		
+		&lt;br&gt;
+    &lt;/td&gt;
+
+    &lt;td width="2%" border="0" style="BORDER-RIGHT: windowtext 0.5pt solid;"&gt; &lt;/td&gt;
+
+    &lt;td width="24%" valign="top" style="	
+		BORDER-RIGHT: windowtext 0.5pt solid; 
+		BORDER-TOP: windowtext 0.5pt solid; 	
+		BORDER-LEFT: medium none; 
+		BORDER-BOTTOM: windowtext 0.5pt solid; 
+		PADDING-LEFT: 3.5pt; 
+		"&gt;
+		&lt;font face="Arial" style="font-size: 6pt"&gt;
+		DATA DA SITUAÇÃO ESPECIAL
+		&lt;/font&gt;
+
+		&lt;br&gt;
+
+		&lt;font face="Arial" style="font-size: 8pt"&gt;
+		&lt;b&gt;	********	&lt;/b&gt;
+		&lt;/font&gt;
+
+		&lt;br&gt;
+    &lt;/td&gt;
+
+   &lt;/tr&gt;
+
+  &lt;/table&gt;
+
+  
+&lt;!-- Fim Linha SITUACAO ESPECIAL--&gt;
+
+
+  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;/table&gt;
+
+&lt;!-- Fim da tabela principal --&gt;
+&lt;!-- || --&gt;
+&lt;!-- \/ --&gt;
+
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!-- /\ --&gt;
+&lt;!-- || --&gt;
+
+&lt;br&gt;
+
+&lt;p&gt;&lt;font face="Arial" size="2"&gt;
+
+Aprovado pela Instrução Normativa RFB nº 1.183, de 19 de agosto de 2011.
+&lt;/p&gt;
+
+&lt;!--
+&lt;p&gt;Emitido no dia &lt;b&gt;23/07/2013&lt;/b&gt; às &lt;b&gt; 22:40:04 &lt;/b&gt; (data e hora de Brasília). &lt;/p&gt;
+&lt;p&gt;Página: &lt;b&gt;1/1&lt;/b&gt;&lt;/p&gt;
+--&gt;
+
+&lt;table border="0" cellspacing="0" style="width:17cm;	line-height: 6pt;"&gt;
+	&lt;tr&gt;
+		&lt;td align="left"&gt;
+		&lt;p&gt;&lt;font face="Arial" size="2"&gt;Emitido no dia &lt;b&gt;23/07/2013&lt;/b&gt; às &lt;b&gt; 22:40:04 &lt;/b&gt; (data e hora de Brasília). &lt;/font&gt;&lt;/p&gt;
+		&lt;/td&gt;
+		
+		&lt;td align="right"&gt;
+		&lt;p&gt;&lt;font face="Arial" size="2"&gt;Página: &lt;b&gt;1/1&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;/font&gt;
+
+&lt;/div&gt;
+
+&lt;table border="0" cellspacing="0" style="width:17cm;"&gt;
+  &lt;tr&gt;
+    &lt;td valign="center" align="center" colspan="2"&gt;
+
+
+
+	&lt;center&gt;
+	&lt;form action="javascript:location.replace('Cnpjreva_Solicitacao2.asp')" method="post" name="frmConsulta"&gt;
+		&lt;input type="submit" name="opcao" value="Voltar"&gt;
+	&lt;/form&gt;
+	&lt;/center&gt;
+
+
+
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!-- Código do link de impressão --&gt;
+&lt;table border="0" width="100%"&gt;
+	 &lt;tr&gt;
+		&lt;td width="100%" align="right"&gt;&lt;script language="JavaScript1.1" src="/print.js"&gt;&lt;/script&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+	   
+&lt;span class="espacoRodape"&gt;&lt;/span&gt;
+&lt;span class="Rodape"&gt;
+	&lt;span class="corpoRodape"&gt;A RFB agradece a sua visita. Para informações sobre política
+	de privacidade e uso, &lt;a href="/Politica/Privacidade.htm"&gt;clique aqui&lt;/a&gt;.&lt;br&gt;
+	&lt;a href="/Principal/AtualizaBrowser.htm"&gt;Atualize sua página&lt;/a&gt; 
+	&lt;/span&gt;
+&lt;/span&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+</root>
